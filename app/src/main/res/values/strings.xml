@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVM_PTC</string>
+    <string name="escribe_un_numero">Escribe un numero</string>
+</resources>
